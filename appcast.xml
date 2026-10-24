@@ -3,6 +3,16 @@
   <channel>
     <title>Lectrail 課脈</title>
     <item>
+      <title>Lectrail 0.1.4</title>
+      <link>https://github.com/fdexpert/lectrail-releases</link>
+      <sparkle:version>0.1.4</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Sat, 24 Oct 2026 23:57:45 +0000</pubDate>
+      <enclosure url="https://github.com/fdexpert/lectrail-releases/releases/download/v0.1.4/Lectrail-0.1.4.dmg" length="37558385" type="application/octet-stream" sparkle:edSignature="c7phCYqJ0etu3DqkzLizHUyXdwXjAzECzsZr3Crq78ig0JjM6VSFcPGF5Gqiv3TxeGZOmJOSmvmTk5ncwcSdCA=="/>
+    </item>
+    <item>
       <title>Lectrail 0.1.3</title>
       <link>https://github.com/fdexpert/lectrail-releases</link>
       <sparkle:version>0.1.3</sparkle:version>
