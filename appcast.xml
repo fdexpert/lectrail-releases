@@ -4,19 +4,11 @@
     <title>Lectrail 課脈</title>
     <item>
       <title>Lectrail 0.1.1</title>
-      <pubDate>Sat, 24 Oct 2026 13:02:20 +0000</pubDate>
+      <link>https://github.com/fdexpert/lectrail-releases</link>
       <sparkle:version>0.1.1</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fdexpert/lectrail-releases/releases/download/v0.1.1/Lectrail-0.1.1.dmg" length="37551466" type="application/x-apple-diskimage" sparkle:edSignature="T/HuiKDk9JGQLS2C2ARbvsnEtOo4PGggG/tFZX6vWMq2RK6Gkhm/2pKcqn/IyHc/d5Ke0Z9XNorXksydbS29DQ=="/>
-    </item>
-    <item>
-      <title>Lectrail 0.1.0</title>
-      <pubDate>Sat, 24 Oct 2026 12:35:14 +0000</pubDate>
-      <sparkle:version>0.1.0</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fdexpert/lectrail-releases/releases/download/v0.1.0/Lectrail-0.1.0.dmg" length="37550963" type="application/x-apple-diskimage" sparkle:edSignature="nX2jvI+9QnGp9p/N+DttIbEcS6VuS5hfZlofnAw99O/lEXFFY/9j0057znuz0cng8e9eFpaqRhn2U9oWCtIaBQ=="/>
+      <pubDate>Sat, 24 Oct 2026 13:08:08 +0000</pubDate>
+      <enclosure url="https://github.com/fdexpert/lectrail-releases/releases/download/v0.1.1/Lectrail-0.1.1.dmg" length="37551466" type="application/octet-stream" sparkle:edSignature="T/HuiKDk9JGQLS2C2ARbvsnEtOo4PGggG/tFZX6vWMq2RK6Gkhm/2pKcqn/IyHc/d5Ke0Z9XNorXksydbS29DQ=="/>
     </item>
   </channel>
 </rss>
